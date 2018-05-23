@@ -4,6 +4,10 @@
   "description": "Tower defence game simple example",
   "author": "blue bot <verybluebot@gmail.com>",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/verybluebot/towerDefenceExample"
+  },
   "scripts": {
     "start": "webpack",
     "deploy": "webpack --config webpack.production.config.js",
@@ -37,7 +41,9 @@
     "cordova-browser": "^5.0.2",
     "cordova-ios": "^4.5.4",
     "cordova-plugin-whitelist": "^1.3.3",
+    "easystarjs": "^0.4.3",
     "phaser-ce": "^2.9.4",
+    "phaser-plugin-isometric": "github:lewster32/phaser-plugin-isometric",
     "webfontloader": "^1.6.28"
   },
   "cordova": {

@@ -2,21 +2,49 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/src/components/SimplePool.js" />
         <item url="file://$PROJECT_DIR$/dist/src/main.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/sprites/Enemies/Skeleton.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/sprites/Enemies/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/sprites/GoodGuys/Archer.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/sprites/GoodGuys/Archers.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/sprites/GoodGuys/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/sprites/Mushroom.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/sprites/Tempalte.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/sprites/Template.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/sprites/UI/NumberBox.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/sprites/UI/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/sprites/index.js" />
         <item url="file://$PROJECT_DIR$/dist/src/states/Boot.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/states/Game.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/states/Menu.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/states/Munu.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/states/Splash.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/dist/src/main.js" />
-      <root url="file://$PROJECT_DIR$/dist/src/sprites/Mushroom.js" />
-      <root url="file://$PROJECT_DIR$/dist/src/sprites/index.js" />
-      <root url="file://$PROJECT_DIR$/dist/src/states/Boot.js" />
-      <root url="file://$PROJECT_DIR$/dist/src/states/Game.js" />
-      <root url="file://$PROJECT_DIR$/dist/src/states/Splash.js" />
       <root url="file://$PROJECT_DIR$/dist/src/utils.js" />
       <root url="file://$PROJECT_DIR$/dist/webpack.config.js" />
       <root url="file://$PROJECT_DIR$/dist/webpack.cordova.config.js" />
       <root url="file://$PROJECT_DIR$/dist/webpack.production.config.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/components/SimplePool.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/main.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/sprites/Enemies/Skeleton.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/sprites/Enemies/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/sprites/GoodGuys/Archer.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/sprites/GoodGuys/Archers.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/sprites/GoodGuys/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/sprites/Mushroom.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/sprites/Tempalte.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/sprites/Template.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/sprites/UI/NumberBox.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/sprites/UI/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/sprites/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/states/Boot.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/states/Game.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/states/Menu.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/states/Munu.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/states/Splash.js" />
     </CLASSES>
     <SOURCES />
   </library>

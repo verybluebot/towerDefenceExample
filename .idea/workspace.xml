@@ -1,7 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2c82fd9-0504-4e09-bc54-b4c7c0123efe" name="Default" comment="" />
+    <list default="true" id="f2c82fd9-0504-4e09-bc54-b4c7c0123efe" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/assetPack.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/btnAgain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/btnBegin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/defenseBG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gameOverText.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/healthHolder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/loading_bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/loading_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/moneyholder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sprites/Human/human_hair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sprites/Human/human_nude_bald.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sprites/Human/human_nude_hair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sprites/Human/human_regular_bald.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sprites/Human/human_regular_hair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sprites/Pig/hair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sprites/Pig/pig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sprites/Pig/pig_hair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sprites/Skeleton/flame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sprites/Skeleton/skeleton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sprites/Skeleton/skeleton_flame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sprites/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/beach.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/beachCornerES.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/beachCornerNE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/beachCornerNW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/beachCornerSW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/beachE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/beachES.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/beachN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/beachNE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/beachNW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/beachS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/beachSW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/beachW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/bridgeEW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/bridgeNS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/coniferAltShort.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/coniferAltTall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/coniferShort.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/coniferTall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/crossroad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/crossroadESW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/crossroadNES.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/crossroadNEW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/crossroadNSW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/dirt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/dirtDouble.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/endE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/endN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/endS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/endW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/exitE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/exitN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/exitS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/exitW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/grass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/grassWhole.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/hillE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/hillES.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/hillN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/hillNE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/hillNW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/hillS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/hillSW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/hillW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/lotE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/lotES.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/lotN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/lotNE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/lotNW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/lotS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/lotSW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/lotW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/riverBankedES.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/riverBankedEW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/riverBankedNE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/riverBankedNS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/riverBankedNW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/riverBankedSW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/riverES.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/riverEW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/riverNE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/riverNS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/riverNW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/riverSW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/road.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/roadES.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/roadEW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/roadHill2E.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/roadHill2N.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/roadHill2S.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/roadHill2W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/roadHillE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/roadHillN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/roadHillS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/roadHillW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/roadNE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/roadNS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/roadNW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/roadSW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/treeAltShort.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/treeAltTall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/treeShort.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/treeTall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/waterCornerES.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/waterCornerNE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/waterCornerNW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/waterCornerSW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/waterE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/waterES.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/waterN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/waterNE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/waterNW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/waterS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/waterSW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tiles/waterW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/isotiles.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/loader-bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/loader-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mushroom2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/phaser-es6-webpack.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sprites/Mushroom.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sprites/Template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sprites/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sprites/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/states/Game.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/states/Game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/states/Splash.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/states/Splash.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,8 +149,11 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="8" column="16" selection-start-line="8" selection-end-line="9" />
+            <state relative-caret-position="448">
+              <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -26,17 +161,61 @@
       <file leaf-file-name="Boot.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/states/Boot.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+            <state relative-caret-position="570">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file leaf-file-name="Splash.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/states/Splash.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="19" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Menu.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/states/Menu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Skeleton.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sprites/Enemies/Skeleton.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Archer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sprites/GoodGuys/Archer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberBox.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sprites/UI/NumberBox.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/states/Game.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+              <folding>
+                <element signature="e#22#50#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,6 +229,19 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>__DEV__</find>
+      <find>easystarjs</find>
+      <find>js</find>
+      <find>Human</find>
+      <find>states/Splash</find>
+      <find>back</find>
+      <find>scoreBox</find>
+      <find>Isometric</find>
+      <find>Path was found. The first Point is</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -58,20 +250,31 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/config.js" />
-        <option value="$PROJECT_DIR$/src/sprites/index.js" />
-        <option value="$PROJECT_DIR$/src/sprites/Mushroom.js" />
         <option value="$PROJECT_DIR$/.eslintrc.json" />
         <option value="$PROJECT_DIR$/src/utils.js" />
-        <option value="$PROJECT_DIR$/src/states/Splash.js" />
-        <option value="$PROJECT_DIR$/src/states/Game.js" />
         <option value="$PROJECT_DIR$/webpack.cordova.config.js" />
         <option value="$PROJECT_DIR$/webpack.production.config.js" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
-        <option value="$PROJECT_DIR$/src/main.js" />
         <option value="$PROJECT_DIR$/config.xml" />
-        <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/states/Boot.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/states/Munu.js" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/sprites/Mushroom.js" />
+        <option value="$PROJECT_DIR$/src/sprites/Enemies/index.js" />
+        <option value="$PROJECT_DIR$/src/sprites/GoodGuys/Archers.js" />
+        <option value="$PROJECT_DIR$/src/sprites/UI/index.js" />
+        <option value="$PROJECT_DIR$/src/components/SimplePool.js" />
+        <option value="$PROJECT_DIR$/src/sprites/GoodGuys/index.js" />
+        <option value="$PROJECT_DIR$/src/sprites/GoodGuys/Archer.js" />
+        <option value="$PROJECT_DIR$/src/sprites/Enemies/Skeleton.js" />
+        <option value="$PROJECT_DIR$/src/states/Splash.js" />
+        <option value="$PROJECT_DIR$/src/states/Menu.js" />
+        <option value="$PROJECT_DIR$/src/sprites/UI/NumberBox.js" />
+        <option value="$PROJECT_DIR$/src/sprites/index.js" />
+        <option value="$PROJECT_DIR$/src/states/Game.js" />
       </list>
     </option>
   </component>
@@ -110,7 +313,30 @@
             <path>
               <item name="towerDefenceExample" type="b2602c69:ProjectViewProjectNode" />
               <item name="towerDefenceExample" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="towerDefenceExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="towerDefenceExample" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="towerDefenceExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="towerDefenceExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="towerDefenceExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="towerDefenceExample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sprites" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="towerDefenceExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="towerDefenceExample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="states" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -131,8 +357,20 @@
     <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/.nvm/versions/node/v6.10.3/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="standardjs.codestyle.accepted" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/sprites/UI" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -159,32 +397,33 @@
       <workItem from="1518014013921" duration="891000" />
       <workItem from="1525179626258" duration="314000" />
       <workItem from="1527064076614" duration="54000" />
-      <workItem from="1527065152252" duration="600000" />
+      <workItem from="1527065152252" duration="11726000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1859000" />
+    <option name="totallyTimeSpent" value="12985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32889965" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -201,6 +440,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="8" column="16" selection-start-line="8" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -218,7 +460,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sprites/Mushroom.js">
+    <entry file="file://$PROJECT_DIR$/src/sprites/Template.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
@@ -239,34 +481,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.eslintrc.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/utils.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/states/Game.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
-          <folding>
-            <element signature="e#22#50#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sprites/Mushroom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -281,30 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="83" column="2" selection-start-line="83" selection-start-column="2" selection-end-line="83" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sprites/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/states/Splash.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="8" column="16" selection-start-line="8" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -329,31 +523,204 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/phaser-plugin-isometric/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="24" selection-start-line="2" selection-end-line="3" />
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/states/Boot.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        <state relative-caret-position="375">
+          <caret line="25" column="115" selection-start-line="25" selection-start-column="115" selection-end-line="25" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/phaser-plugin-isometric/src/Isometric.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="50" column="58" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/phaser-ce/typescript/phaser.comments.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="22471" column="43" selection-start-line="22471" selection-start-column="37" selection-end-line="22471" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/phaser-plugin-isometric/dist/phaser-plugin-isometric.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25156">
+          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/easystarjs/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/easystarjs/src/easystar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="239" column="4" selection-start-line="239" selection-start-column="4" selection-end-line="239" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/states/Boot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sprites/Enemies/index.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sprites/UI/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SimplePool.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sprites/GoodGuys/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/phaser-plugin-isometric/src/IsoSprite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/phaser-plugin-isometric/dist/phaser.plugin.isometric.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="108" column="23" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sprites/Enemies/Skeleton.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/phaser-ce/typescript/phaser.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="1653" lean-forward="true" selection-start-line="1653" selection-end-line="1653" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/states/Splash.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/states/Menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sprites/GoodGuys/Archer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/phaser-ce/build/custom/phaser-split.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="35831" selection-start-line="35831" selection-end-line="35831" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/moneyholder.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sprites/UI/NumberBox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sprites/Template.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sprites/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/states/Game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+          <folding>
+            <element signature="e#22#50#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

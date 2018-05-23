@@ -1,3 +1,3 @@
-import Mushroom from './Mushroom';
+import Template from './Template';
 
-export { Mushroom };
+export { Template };
