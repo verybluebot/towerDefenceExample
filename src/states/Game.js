@@ -196,7 +196,7 @@ export default class Game extends Phaser.State {
     }
 
     gameOver () {
-        this.game.state.start('gameover');
+        this.game.state.start('GameOver');
     }
 
     findNearest (xc, yc) {
